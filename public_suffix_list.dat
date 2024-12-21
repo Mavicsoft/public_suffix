@@ -6710,7 +6710,7 @@ org.zw
 
 // newGTLDs
 
-// List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2024-05-31T15:16:08Z
+// List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2024-12-21T15:20:43Z
 // This list is auto-generated, don't edit it manually.
 // aaa : American Automobile Association, Inc.
 // https://www.iana.org/domains/root/db/aaa.html
@@ -6940,7 +6940,7 @@ art
 // https://www.iana.org/domains/root/db/arte.html
 arte
 
-// asda : Wal-Mart Stores, Inc.
+// asda : Asda Stores Limited
 // https://www.iana.org/domains/root/db/asda.html
 asda
 
@@ -7656,10 +7656,6 @@ cymru
 // https://www.iana.org/domains/root/db/cyou.html
 cyou
 
-// dabur : Dabur India Limited
-// https://www.iana.org/domains/root/db/dabur.html
-dabur
-
 // dad : Charleston Road Registry Inc.
 // https://www.iana.org/domains/root/db/dad.html
 dad
@@ -8112,7 +8108,7 @@ forex
 // https://www.iana.org/domains/root/db/forsale.html
 forsale
 
-// forum : Fegistry, LLC
+// forum : Waterford Limited
 // https://www.iana.org/domains/root/db/forum.html
 forum
 
@@ -8392,11 +8388,11 @@ haus
 // https://www.iana.org/domains/root/db/hbo.html
 hbo
 
-// hdfc : HOUSING DEVELOPMENT FINANCE CORPORATION LIMITED
+// hdfc : HDFC BANK LIMITED
 // https://www.iana.org/domains/root/db/hdfc.html
 hdfc
 
-// hdfcbank : HDFC Bank Limited
+// hdfcbank : HDFC BANK LIMITED
 // https://www.iana.org/domains/root/db/hdfcbank.html
 hdfcbank
 
@@ -9024,7 +9020,7 @@ maison
 // https://www.iana.org/domains/root/db/makeup.html
 makeup
 
-// man : MAN SE
+// man : MAN Truck & Bus SE
 // https://www.iana.org/domains/root/db/man.html
 man
 
@@ -9103,6 +9099,10 @@ men
 // menu : Dot Menu Registry, LLC
 // https://www.iana.org/domains/root/db/menu.html
 menu
+
+// merck : Merck Registry Holdings, Inc.
+// https://www.iana.org/domains/root/db/merck.html
+merck
 
 // merckmsd : MSD Registry Holdings, Inc.
 // https://www.iana.org/domains/root/db/merckmsd.html
@@ -9228,10 +9228,6 @@ nab
 // https://www.iana.org/domains/root/db/nagoya.html
 nagoya
 
-// natura : NATURA COSMÉTICOS S.A.
-// https://www.iana.org/domains/root/db/natura.html
-natura
-
 // navy : Dog Beach, LLC
 // https://www.iana.org/domains/root/db/navy.html
 navy
@@ -9320,7 +9316,7 @@ nissay
 // https://www.iana.org/domains/root/db/nokia.html
 nokia
 
-// norton : NortonLifeLock Inc.
+// norton : Gen Digital Inc.
 // https://www.iana.org/domains/root/db/norton.html
 norton
 
@@ -9688,7 +9684,7 @@ realestate
 // https://www.iana.org/domains/root/db/realtor.html
 realtor
 
-// realty : Internet Naming Company LLC
+// realty : Waterford Limited
 // https://www.iana.org/domains/root/db/realty.html
 realty
 
@@ -10004,10 +10000,6 @@ shangrila
 // https://www.iana.org/domains/root/db/sharp.html
 sharp
 
-// shaw : Shaw Cablesystems G.P.
-// https://www.iana.org/domains/root/db/shaw.html
-shaw
-
 // shell : Shell Information Technology International Inc
 // https://www.iana.org/domains/root/db/shell.html
 shell
@@ -10064,7 +10056,7 @@ ski
 // https://www.iana.org/domains/root/db/skin.html
 skin
 
-// sky : Sky International AG
+// sky : Sky UK Limited
 // https://www.iana.org/domains/root/db/sky.html
 sky
 
@@ -10500,7 +10492,7 @@ ups
 // https://www.iana.org/domains/root/db/vacations.html
 vacations
 
-// vana : Internet Naming Company LLC
+// vana : D3 Registry LLC
 // https://www.iana.org/domains/root/db/vana.html
 vana
 
@@ -10772,7 +10764,7 @@ xin
 // https://www.iana.org/domains/root/db/xn--3bst00m.html
 集团
 
-// xn--3ds443g : TLD REGISTRY LIMITED OY
+// xn--3ds443g : Beijing TLD Registry Technology Limited
 // https://www.iana.org/domains/root/db/xn--3ds443g.html
 在线
 
@@ -11128,7 +11120,7 @@ yahoo
 // https://www.iana.org/domains/root/db/yamaxun.html
 yamaxun
 
-// yandex : Yandex Europe B.V.
+// yandex : ADC Tech Netherlands B.V.
 // https://www.iana.org/domains/root/db/yandex.html
 yandex
 
